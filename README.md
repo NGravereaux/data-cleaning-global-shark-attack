@@ -2,7 +2,7 @@
 
 ![Tableau viz](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/shark_attack_tableau.png?raw=true)
 
-### Attcks by Victim's Activity 
+### Attacks by Victim's Activity 
 The bar chart displays the number of shark attacks associated with various activities. Surfing leads with 30.43% (1,151 attacks), followed by swimming at 746, spearfishing at 425, and fishing at 422. 
 ![By activity](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/attacks_by_activity.png?raw=true)
 
@@ -23,10 +23,29 @@ Countries that stand out in terms of attack frequency:
 - Australia: Represents 18.81% of the attacks, totaling 903 incidents.
 - South Africa: Comprises 9.90% of the attacks, with 475 incidents recorded.
 ![By country](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/attacks_per_country.png?raw=true)
+
+### Insights into most notable types of attacks by frequency:
+- Unprovoked: Accounts for the majority of incidents, with 3,753 victims, representing approximately 82.53% of all cases.
+- Provoked: Involves 474 victims, making up about 10.42% of the attacks.
+- Watercraft: Affects 247 individuals, which constitutes approximately 5.43% of the total.
 ![By type](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/by_type_unprovoked.png?raw=true)
+
+### Fatality rate
+The majority of victims, 86.9%, survived the attacks, while 13.1% of the attacks were fatal.
 ![By Fatality](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/fatality.png?raw=true)
+
+### The gender distribution of shark attack victims
+Males are the predominant victims, accounting for 78.5% of cases. Females constitute 13.5%, while 7.9% of cases have unidentified gender.
 ![By Gender](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/gender.png?raw=true)
+
+### Time of the day
+
 ![By time of the day](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/time_of_day.png?raw=true)
+
+### Insights into age of victimes
 ![Age Box Plot](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/age_box_pot.png?raw=true)
 ![By age](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/victims_age_group.png?raw=true)
+
+### Insights into injury type
+![By injury type](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/injury_type.png?raw=true)
 
