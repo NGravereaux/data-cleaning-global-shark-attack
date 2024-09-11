@@ -1,6 +1,7 @@
 # Data Cleaning Project: Global Shark Attack
 
 ![Tableau viz](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/shark_attack_tableau.png?raw=true)
+The bar chart displays the number of shark attacks associated with various activities. Surfing leads with 30.43% (1,151 attacks), followed by swimming at 746, spearfishing at 425, and fishing at 422. 
 ![By activity](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/attacks_by_activity.png?raw=true)
 ![By month](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/attacks_by_months.png?raw=true)
 ![By year](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/attacks_by_year.png?raw=true)
