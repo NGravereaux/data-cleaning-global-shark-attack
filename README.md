@@ -1,5 +1,5 @@
 # Data Cleaning Project: Global Shark Attack
-
+Access the interactive Tableau Dashboard through the following link: https://public.tableau.com/app/profile/natalia.mikhieieva.gravereaux/viz/GlobalSharkAttackAnalysisDashboard/Dashboard1
 ![Tableau viz](https://github.com/NGravereaux/data-cleaning-global-shark-attack/blob/main/viz/shark_attack_tableau.png?raw=true)
 
 ### Attacks by Victim's Activity 
